@@ -1,0 +1,12 @@
+C:\Users\Utilisateur\source\repos\Network\Network\bin\Release\Network.exe.config
+C:\Users\Utilisateur\source\repos\Network\Network\bin\Release\Network.exe
+C:\Users\Utilisateur\source\repos\Network\Network\bin\Release\Network.pdb
+C:\Users\Utilisateur\source\repos\Network\Network\obj\Release\Network.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\Network\Network\obj\Release\Network.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\Network\Network\obj\Release\Network.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\Network\Network\obj\Release\Network.exe
+C:\Users\Utilisateur\source\repos\Network\Network\obj\Release\Network.pdb
+C:\Users\Utilisateur\source\repos\Network\Network\obj\Release\Network.FormIface.resources
+C:\Users\Utilisateur\source\repos\Network\Network\obj\Release\Network.formRouteur.resources
+C:\Users\Utilisateur\source\repos\Network\Network\obj\Release\Network.FormMain.resources
+C:\Users\Utilisateur\source\repos\Network\Network\obj\Release\Network.csprojAssemblyReference.cache
